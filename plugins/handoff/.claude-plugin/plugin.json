@@ -1,0 +1,6 @@
+{
+  "name": "handoff",
+  "description": "Wind down and export a session so a fresh agent can continue cold",
+  "version": "1.0.0",
+  "author": { "name": "Infordisa" }
+}

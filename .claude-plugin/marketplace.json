@@ -1,0 +1,12 @@
+{
+  "name": "infordisa-tools",
+  "owner": { "name": "Infordisa" },
+  "description": "Internal Claude Code plugins for the Infordisa team",
+  "plugins": [
+    {
+      "name": "handoff",
+      "source": "./plugins/handoff",
+      "description": "Wind down a session and export it so a fresh agent can continue cold"
+    }
+  ]
+}
