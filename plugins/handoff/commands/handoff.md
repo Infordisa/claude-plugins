@@ -1,7 +1,6 @@
 ---
 description: Wind down and export this session so a fresh agent can continue cold
 argument-hint: "[optional: what to emphasize]"
-disable-model-invocation: true
 ---
 
 # Export this session
